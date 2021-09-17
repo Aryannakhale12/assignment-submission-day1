@@ -1,0 +1,13 @@
+Q1). Difference between compiler and interpreter?
+And--- 
+Compiler:: It goes through entire program and then translate full program to machine language at once.
+           If any error are there it will show at last when full code runs.
+           It require source code of execution.
+           The execution time of complier is very less than interpreter.
+           Eg-- C, C++
+
+Interpreter::  It execute the code line by line and convert single line to machine language.
+               If any errors occur interpreter show the error after every line execution.
+               It doesn't require source code, it can process single line code also.
+               The execution time of interpreter is too slow as it goes line by line.
+               Eg-- python, PHP
